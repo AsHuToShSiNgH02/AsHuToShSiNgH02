@@ -31,7 +31,7 @@
 * ⚡  I'm called TechApostle.
 
 <a href="https://www.x.com/Ashutos2302" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/AsHuToShSiNgH0?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
 /></a>
 <a href="https://www.linkedin.com/in/ashutosh-singh-5ab8252a7/" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin&color=0077B5&labelColor=1c1917" />
