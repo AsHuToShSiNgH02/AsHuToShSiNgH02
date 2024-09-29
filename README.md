@@ -74,6 +74,9 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
 
 ## Badges:
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutoshsingh02&show_icons=true&locale=en&layout=compact" alt="ashutoshsingh02" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshsingh02&show_icons=true&locale=en" alt="ashutoshsingh02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshsingh02&" alt="ashutoshsingh02" /></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsHuToShSiNgH02&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
                      
