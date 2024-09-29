@@ -23,10 +23,10 @@
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
-* 🌍  I'm based in Nigeria.
-* ✉️  You can contact me at [jossyboydgenius@gmail.com](mailto:jossyboydgenius@gmail.com)
+* 🌍  I'm based in INDIA.
+* ✉️  You can contact me at [ashutoshin2002@gmail.com](mailto:ashutoshin2002@gmail.com)
 * 🚀  I'm currently working on a lot of projects, I can't disclose that yet. I'm sorry. 😞
-* 🧠  I'm currently learning Machine Learning and other programming languages. 
+* 🧠  I'm currently learning App development. 
 * 🤝  I'm open to collaborating on any interesting projects.
 * ⚡  I'm called TechApostle.
 
