@@ -78,7 +78,20 @@ src="https://img.shields.io/twitter/follow/Kiss_johzzy?logo=twitter&style=for-th
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutoshsingh02&show_icons=true&locale=en" alt="ashutoshsingh02" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshsingh02&" alt="ashutoshsingh02" /></p>
 
-![snake gif](https://github.com/AsHuToShSiNgH02/AsHuToShSiNgH02/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/AsHuToShSiNgH02/AsHuToShSiNgH02/blob/output/github-contribution-grid-snake.gif"
+  />
+</picture>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AsHuToShSiNgH02&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
                      
