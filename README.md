@@ -21,6 +21,15 @@
     Feel free to explore my projects, and let’s connect to innovate and build the future together!
 </p>
 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+* 🌍  I'm based in Nigeria.
+* ✉️  You can contact me at [jossyboydgenius@gmail.com](mailto:jossyboydgenius@gmail.com)
+* 🚀  I'm currently working on a lot of projects, I can't disclose that yet. I'm sorry. 😞
+* 🧠  I'm currently learning Machine Learning and other programming languages. 
+* 🤝  I'm open to collaborating on any interesting projects.
+* ⚡  I'm called TechApostle.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshsingh02&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshsingh02" /> </p>
 
 <h3 align="left">Connect with me:</h3>
