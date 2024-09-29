@@ -1,6 +1,25 @@
 ![logo](https://github.com/AsHuToShSiNgH02/AsHuToShSiNgH02/blob/main/image.png)
-<h1 align="center">Hi 👋, I'm Ashutosh Singh</h1>
-<h3 align="center">A passionate frontend developer & Problem Solver from India</h3>
+<div align="center">
+    <h1>
+        Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand" width="35"/>  
+        <br>
+     I'm Awe Joseph.
+    </h1>
+</div>
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname?+🤔+I'm+TechApostle.;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+</h1>
+
+<h3 align="center">
+    I'm a fullstack Web Developer 🌐
+</h3>
+
+<p align="center">
+    Welcome to my digital portfolio where code meets creativity and security.<br>
+    Feel free to explore my projects, and let’s connect to innovate and build the future together!
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshsingh02&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshsingh02" /> </p>
 
